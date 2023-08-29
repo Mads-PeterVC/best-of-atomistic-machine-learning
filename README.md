@@ -1298,7 +1298,7 @@ _Projects that implement materials discovery methods using atomistic ML._
 	git clone https://github.com/aced-differentiate/closed-loop-acceleration-benchmarks
 	```
 
-- <b><a href="https://gitlab.com/agox/agox">AGOX</a></b> (🥉5 ·  ⭐ 10) - AGOX is a package for global optimization of atomic system using e.g. the energy calculated from density functional.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>structure-optimization</code></a>
+<details><summary><b><a href="https://gitlab.com/agox/agox">AGOX</a></b> (🥉5 ·  ⭐ 10) - AGOX is a package for global optimization of atomic system using e.g. the energy calculated from density functional.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>structure-optimization</code></a>
 
  
 </details>
