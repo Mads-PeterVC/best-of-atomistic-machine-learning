@@ -1297,12 +1297,15 @@ _Projects that implement materials discovery methods using atomistic ML._
 	```
 	git clone https://github.com/aced-differentiate/closed-loop-acceleration-benchmarks
 	```
+
+- <b><a href="https://gitlab.com/agox/agox">AGOX</a></b> (🥉5 ·  ⭐ 10) - AGOX is a package for global optimization of atomic system using e.g. the energy calculated from density functional.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>structure-optimization</code></a>
+
+ 
 </details>
 <details><summary>Show 6 hidden projects...</summary>
 
 - <b><a href="https://gitlab.com/cest-group/boss">BOSS</a></b> (🥈7 ·  ⭐ 18 · 💀) - Bayesian Optimization Structure Search (BOSS). <code>Unlicensed</code> <code>probabilistic</code>
 - <b><a href="https://github.com/ulissigroup/CAMD">Computational Autonomy for Materials Discovery (CAMD)</a></b> (🥈6 ·  ⭐ 1 · 💤) - Agent-based sequential learning software for materials discovery. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://gitlab.com/agox/agox">AGOX</a></b> (🥉5 ·  ⭐ 10 · 💀) - AGOX is a package for global optimization of atomic system using e.g. the energy calculated from density functional.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>structure-optimization</code></a>
 - <b><a href="https://github.com/Minoru938/CSPML">CSPML (crystal structure prediction with machine learning-based element substitution)</a></b> (🥉3 ·  ⭐ 12 · 💀) - Original implementation of CSPML. <code>Unlicensed</code> <code>structure-prediction</code>
 - <b><a href="https://github.com/MDIL-SNU/SPINNER">SPINNER</a></b> (🥉3 ·  ⭐ 9 · 💀) - SPINNER (Structure Prediction of Inorganic crystals using Neural Network potentials with Evolutionary and Random.. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code> <code>C++</code> <code>structure-prediction</code>
 - <b><a href="https://github.com/CitrineInformatics-ERD-public/sl_discovery">sl_discovery</a></b> (🥉3 ·  ⭐ 5 · 💤) - Data processing and models related to Quantifying the performance of machine learning models in materials discovery. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.psik2022.net/program/symposia#h.p_hM6hJbQD9dex"><code>materials-discovery</code></a> <code>single-paper</code>
